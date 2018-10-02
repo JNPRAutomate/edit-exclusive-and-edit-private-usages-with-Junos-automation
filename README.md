@@ -93,4 +93,3 @@ With a workflow that ensures a "single source of authority" for each section of 
 Without a workflow that ensures a "single source of authority" for each section of their configuration, the "configure exclusive" workflow is preferred.   
 
 In both scenarios, the automation should handle the conflicts.   
-
